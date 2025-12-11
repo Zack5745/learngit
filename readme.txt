@@ -24,25 +24,3 @@ in addition  git reset --hard <commit id>:will roll back to the committed state 
              git reset --mixed<commit id>:will roll back to the state where the previous version was nOT added and NOT committed.
 
 Thats all. 
-
-jdflk
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
