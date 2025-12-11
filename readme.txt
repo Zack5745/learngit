@@ -25,7 +25,7 @@ in addition  git reset --hard <commit id>:will roll back to the committed state 
 
 Thats all. 
 
-
+jdflk
 
 
 
