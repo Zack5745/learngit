@@ -12,4 +12,4 @@ enter;
 
 to delete: put Esc, than put "x",  or "dd".
 
-
+it is very complex ,right?
