@@ -23,4 +23,6 @@ in addition  git reset --hard <commit id>:will roll back to the committed state 
              git reset --soft <commit id>:will roll back to the Uncommitted state for;
              git reset --mixed<commit id>:will roll back to the state where the previous version was nOT added and NOT committed.
 
-Thats all. 
+
+Thats all.
+this is dev+ 
